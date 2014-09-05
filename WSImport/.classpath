@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="axis.jar"/>
+	<classpathentry kind="lib" path="classes111.jar"/>
+	<classpathentry kind="lib" path="commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="commons-discovery.jar"/>
+	<classpathentry kind="lib" path="commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="commons-logging.jar"/>
+	<classpathentry kind="lib" path="cryptix32.jar"/>
+	<classpathentry kind="lib" path="jakarta-regexp-1.2.jar"/>
+	<classpathentry kind="lib" path="jaxrpc.jar"/>
+	<classpathentry kind="lib" path="oscache-2.0.1.jar"/>
+	<classpathentry kind="lib" path="saaj.jar"/>
+	<classpathentry kind="lib" path="xalan.jar"/>
+	<classpathentry kind="lib" path="xtran.jar"/>
+	<classpathentry kind="lib" path="commons-lang-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
